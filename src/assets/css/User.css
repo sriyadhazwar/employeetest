@@ -1,0 +1,57 @@
+.customImgCard {
+    border-radius: 10em !important;
+    padding: 1em;
+}
+
+.customCard {
+    margin: 1em;
+    border: none !important;
+    box-shadow: 0px 0px 10px lightgrey;
+    border-radius: 2em !important;
+    padding: 1em;
+}
+
+.customTag {
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: -15px !important;
+}
+
+.customInfo {
+    font-size: 12px !important;
+}
+
+.customMapCard {
+    margin: 1em;
+    border: none !important;
+    box-shadow: 0px 0px 10px lightgrey;
+    border-radius: 2em !important;
+    padding: 1em;
+}
+
+.customMapImgCard {
+    border-radius: 2em !important;
+}
+
+.customMapTag {
+    font-size: 12px !important;
+}
+
+.customBtn {
+    border-radius: 10em !important;
+}
+
+.customCommentIcon svg {
+    margin-bottom: -2px;
+}
+
+.customCommentIcon svg:hover {
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+.customLikeIcon svg:hover {
+    transform: scale(1.5);
+    cursor: pointer;
+}
+

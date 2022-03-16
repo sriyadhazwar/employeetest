@@ -1,0 +1,64 @@
+
+.dashboardCustomCard {
+    width: 10rem;
+    margin: 1em;
+    border: none !important;
+    box-shadow: 0px 0px 10px lightgrey;
+    border-radius: 1em !important;
+}
+
+.dashboardCustomImgCard {
+    border-radius: 10em !important;
+    padding: 1em;
+}
+
+.dashboardCustomCardTitle {
+    font-weight: 500;
+    font-size: 14px !important;
+}
+
+.dashboardCustomCardBody {
+    padding: unset !important;
+    font-size: 0.75em;
+}
+
+.dashboardCustomCardText {
+    width: 10em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+    margin-right: 15%;
+    margin-bottom: 15% !important;
+    margin-left: 15%;
+    color: grey;
+}
+
+.dashboardCustomBtn {
+    background: white !important;
+    box-shadow: 0px 0px 10px lightgrey;
+    border-radius: 10em !important;
+}
+
+.dashboardCustomInput {
+    box-shadow: 0px 0px 10px lightgrey;
+    margin-bottom: 2%;
+    border-radius: 10em !important;
+}
+
+.dashboardCustomBtn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+    cursor: pointer;
+}
+
+.dashboardCustomInput::placeholder {
+    padding-left: 2%;
+    font-size: 12px;
+}
+
+.dashboardCard:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+    cursor: pointer;
+}

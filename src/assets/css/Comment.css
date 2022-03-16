@@ -1,0 +1,41 @@
+.swal-wide {
+    width: 10em !important;
+}
+
+.customCommentFooter {
+    background: white !important;
+    font-size: 14px !important;
+    text-align: right !important;
+    padding-bottom: unset !important;
+}
+
+.customCommentFooter p {
+    font-size: 10px !important;
+    text-align: right !important;
+    font-weight: 800;
+}
+
+.customCommentCard {
+    border: none !important;
+}
+
+.swal2-actions button {
+    background: none !important;
+    outline: none !important;
+    color: black !important;
+    font-size: 10px !important;
+    border-radius: 10em !important;
+
+}
+
+.swal2-actions button:focus {
+    background: none !important;
+    outline: none !important;
+    color: black !important;
+    font-size: 10px !important;
+    border: none !important;
+}
+
+.swal2-popup.swal2-modal.swal2-show {
+    width: 25em !important;
+}
